@@ -2,12 +2,12 @@
 
 # **Python面试宝典**
 
-- 本文档是作者折腾 ```Python```以来的学习历程<br>旨在为大家提供一个较完整的Python面试宝典<br>如果本文能为您得到帮助，请给予支持！
+- 本文档是作者小政 ```Python```以来的学习历程<br>旨在为大家提供一个较完整的Python面试宝典<br>如果本文能为您得到帮助，请给予支持！
 
-[![stars](https://badgen.net/github/stars/mochazi/docsify-demo?color=4ab8a1)](https://github.com/sq1995liu/wikis)
-[![forks](https://badgen.net/github/forks/mochazi/docsify-demo?color=4ab8a1)](https://github.com/sq1995liu/wikis)
-![](https://img.shields.io/badge/%E6%91%B8%E9%B1%BC-%E7%A8%8B%E5%BA%8F%E5%91%98-green)
+[![stars](https://badgen.net/github/stars/mochazi/docsify-demo?color=4ab8a1)](https://github.com/1092093583/bao)
+[![forks](https://badgen.net/github/forks/mochazi/docsify-demo?color=4ab8a1)](https://github.com/1092093583/bao)
+![](https://img.shields.io/badge/%E9%9A%BE%E4%BA%BA__-%E7%A8%8B%E5%BA%8F%E5%91%98-green)
 
-[GitHub](https://github.com/sq1995liu/wikis)
+[GitHub](https://github.com/1092093583/bao)
 [开始阅读](README)
 
